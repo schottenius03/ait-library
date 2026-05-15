@@ -1,0 +1,308 @@
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search 2\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment - Search Decor Complete\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 03-18 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-03 maintain upd - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-16 maintain upd - kopia - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 04-51 maintain upd - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 05-02 maintain upd - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 13-10 maintain - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 14-52 report borrow - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-45 fix usermain - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 16-56 fix usermain - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-40 fix usermain - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\test\Assignment1_complete - 17-44 fix usermain - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-00 borrow - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\20-49\Assignment2 20 jun 21-32 borrow return - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 13-57 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-04 Add book Return - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 14-31 Add book Return - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 15-27 - kopia - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 16-09 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-11 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-23 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 17-33 complete - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-25 complete upd table - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 18-52 complete - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\21 jun\Assignment2 21 jun 21-49 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 22 jun 22-43 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 18-55 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-06 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment2 31 jun 19-14 - kopia\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 31 jun 19-42\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 - kopia\Assignment2\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-07 - kopia\Assignment2\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\obj\Debug\Model.pdb
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Users\kaili\OneDrive\Skrivbord\Enterprise\Assignment3 4 aug 21-48 - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\bin\Debug\Model.dll
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\bin\Debug\Model.pdb
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\obj\Debug\Model.dll
+C:\Projects\Assignment3 4 aug 22-04 DTO\Assignment2\Model\obj\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 16-54 all cloud - kopia\Assignment2\Model\obj\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 18-07 - kopia\Assignment2\Model\obj\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\bin\Debug\Model.dll.config
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\bin\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\bin\Debug\Model.pdb
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\obj\Debug\Model.dll
+C:\Projects\Assignment3 5 aug 18-17 - kopia\Assignment2\Model\obj\Debug\Model.pdb

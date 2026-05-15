@@ -1,0 +1,1417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintaincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintaincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintaincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintaincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbooksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbooksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookreserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookreserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookreserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookreserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookbrowsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookbrowsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|c:\\projects\\assignment3 5 aug 18-41 - kopia\\assignment2\\view\\formmaintainbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetbook.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetbook.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\borrowdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\borrowdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\returndao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\returndao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\languagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\languagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\authordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\authordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\returnlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\returnlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\reservationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\reservationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\languagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\languagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\borrowlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\borrowlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\authorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\authorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\kailing_library_global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\kailing_library_global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\returndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\returndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbooksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbooksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookbrowsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookbrowsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetuser.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetuser.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\controller\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A690D078-1F97-4779-BEA8-82D277353CF9}|Controller\\Controller.csproj|solutionrelative:controller\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formbookreturn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formbookreturn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetlanguage.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetlanguage.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\view\\formmaintainlanguage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB9A40-0136-456C-B6AA-76F16761F5AD}|View\\View.csproj|solutionrelative:view\\formmaintainlanguage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetcategory.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetcategory.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetauthor.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetauthor.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetlanguage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetlanguage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\model\\datasetlanguage.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6DA7EDE2-65CC-4FE7-99BC-7018FD78688A}|Model\\Model.csproj|solutionrelative:model\\datasetlanguage.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMaintainLanguage.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainLanguage.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintainLanguage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:08:20.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMaintainLanguage.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainLanguage.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.cs",
+              "RelativeToolTip": "View\\FormMaintainLanguage.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:08:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMaintainUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainUsers.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainUsers.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainUsers.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintainUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:36:51.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMaintainUsers.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainUsers.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainUsers.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainUsers.cs",
+              "RelativeToolTip": "View\\FormMaintainUsers.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwJcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:37:04.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormProfile.cs",
+              "RelativeDocumentMoniker": "View\\FormProfile.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormProfile.cs [Design]",
+              "RelativeToolTip": "View\\FormProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:03:35.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormProfile.cs",
+              "RelativeDocumentMoniker": "View\\FormProfile.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormProfile.cs",
+              "RelativeToolTip": "View\\FormProfile.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:13:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMaintainCategories.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainCategories.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainCategories.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainCategories.cs",
+              "RelativeToolTip": "View\\FormMaintainCategories.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:05:42.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMaintainCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainCategories.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainCategories.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainCategories.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintainCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:58:42.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMaintainAuthors.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainAuthors.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainAuthors.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainAuthors.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintainAuthors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:42:45.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMaintainAuthors.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainAuthors.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainAuthors.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainAuthors.cs",
+              "RelativeToolTip": "View\\FormMaintainAuthors.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwJIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:43:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMaintain.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintain.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintain.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintain.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:38:00.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormBookSearch.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookSearch.cs",
+              "RelativeDocumentMoniker": "View\\FormBookSearch.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookSearch.cs [Design]",
+              "RelativeToolTip": "View\\FormBookSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:32:11.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBookReturn.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.cs",
+              "RelativeDocumentMoniker": "View\\FormBookReturn.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.cs",
+              "RelativeToolTip": "View\\FormBookReturn.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:53:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBookReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.cs",
+              "RelativeDocumentMoniker": "View\\FormBookReturn.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.cs [Design]",
+              "RelativeToolTip": "View\\FormBookReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:53:03.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBookReserve.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReserve.cs",
+              "RelativeDocumentMoniker": "View\\FormBookReserve.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReserve.cs",
+              "RelativeToolTip": "View\\FormBookReserve.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:50:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormBookReserve.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReserve.cs",
+              "RelativeDocumentMoniker": "View\\FormBookReserve.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReserve.cs [Design]",
+              "RelativeToolTip": "View\\FormBookReserve.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:44:35.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBookBrowsing.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBrowsing.cs",
+              "RelativeDocumentMoniker": "View\\FormBookBrowsing.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBrowsing.cs [Design]",
+              "RelativeToolTip": "View\\FormBookBrowsing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:28:36.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBookBorrow.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBorrow.cs",
+              "RelativeDocumentMoniker": "View\\FormBookBorrow.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBorrow.cs",
+              "RelativeToolTip": "View\\FormBookBorrow.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwIgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:51:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBookBorrow.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBorrow.cs",
+              "RelativeDocumentMoniker": "View\\FormBookBorrow.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBorrow.cs [Design]",
+              "RelativeToolTip": "View\\FormBookBorrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:51:02.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMaintainBooks.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainBooks.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainBooks.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainBooks.cs",
+              "RelativeToolTip": "View\\FormMaintainBooks.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:19:50.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BookDAO.cs",
+              "RelativeDocumentMoniker": "Model\\BookDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BookDAO.cs",
+              "RelativeToolTip": "Model\\BookDAO.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:46.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataSetBook.xsd",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetBook.xsd",
+              "RelativeDocumentMoniker": "Model\\DataSetBook.xsd",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetBook.xsd",
+              "RelativeToolTip": "Model\\DataSetBook.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-27T10:59:14.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMaintainBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainBooks.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainBooks.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainBooks.cs [Design]",
+              "RelativeToolTip": "View\\FormMaintainBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:12:17.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\BookDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BookDTO.cs",
+              "RelativeToolTip": "Controller\\BookDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:58:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BookController.cs",
+              "RelativeDocumentMoniker": "Controller\\BookController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BookController.cs",
+              "RelativeToolTip": "Controller\\BookController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:56:43.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BookLogic.cs",
+              "RelativeDocumentMoniker": "Model\\BookLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BookLogic.cs",
+              "RelativeToolTip": "Model\\BookLogic.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:29:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BorrowDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BorrowDAO.cs",
+              "RelativeDocumentMoniker": "Model\\BorrowDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BorrowDAO.cs",
+              "RelativeToolTip": "Model\\BorrowDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:02:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Model\\Book.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Book.cs",
+              "RelativeToolTip": "Model\\Book.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:43:32.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Model\\UserDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\UserDAO.cs",
+              "RelativeToolTip": "Model\\UserDAO.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwG0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:48:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReturnDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReturnDAO.cs",
+              "RelativeDocumentMoniker": "Model\\ReturnDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReturnDAO.cs",
+              "RelativeToolTip": "Model\\ReturnDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:03:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReservationDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReservationDAO.cs",
+              "RelativeDocumentMoniker": "Model\\ReservationDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReservationDAO.cs",
+              "RelativeToolTip": "Model\\ReservationDAO.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:53:40.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LanguageDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\LanguageDAO.cs",
+              "RelativeDocumentMoniker": "Model\\LanguageDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\LanguageDAO.cs",
+              "RelativeToolTip": "Model\\LanguageDAO.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAA7wJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:21:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "Model\\CategoryDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\CategoryDAO.cs",
+              "RelativeToolTip": "Model\\CategoryDAO.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAA7wI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:45:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthorDAO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\AuthorDAO.cs",
+              "RelativeDocumentMoniker": "Model\\AuthorDAO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\AuthorDAO.cs",
+              "RelativeToolTip": "Model\\AuthorDAO.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\UserLogic.cs",
+              "RelativeDocumentMoniker": "Model\\UserLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\UserLogic.cs",
+              "RelativeToolTip": "Model\\UserLogic.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:23:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReturnLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReturnLogic.cs",
+              "RelativeDocumentMoniker": "Model\\ReturnLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReturnLogic.cs",
+              "RelativeToolTip": "Model\\ReturnLogic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:04:39.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReservationLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReservationLogic.cs",
+              "RelativeDocumentMoniker": "Model\\ReservationLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\ReservationLogic.cs",
+              "RelativeToolTip": "Model\\ReservationLogic.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:55:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LanguageLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\LanguageLogic.cs",
+              "RelativeDocumentMoniker": "Model\\LanguageLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\LanguageLogic.cs",
+              "RelativeToolTip": "Model\\LanguageLogic.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:19:51.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Language.cs",
+              "RelativeDocumentMoniker": "Model\\Language.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Language.cs",
+              "RelativeToolTip": "Model\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:16:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\CategoryLogic.cs",
+              "RelativeDocumentMoniker": "Model\\CategoryLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\CategoryLogic.cs",
+              "RelativeToolTip": "Model\\CategoryLogic.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:04:10.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:54:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BorrowLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BorrowLogic.cs",
+              "RelativeDocumentMoniker": "Model\\BorrowLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\BorrowLogic.cs",
+              "RelativeToolTip": "Model\\BorrowLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:04:06.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Borrow.cs",
+              "RelativeDocumentMoniker": "Model\\Borrow.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Borrow.cs",
+              "RelativeToolTip": "Model\\Borrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:01:59.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthorLogic.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\AuthorLogic.cs",
+              "RelativeDocumentMoniker": "Model\\AuthorLogic.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\AuthorLogic.cs",
+              "RelativeToolTip": "Model\\AuthorLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:16:12.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:57:35.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Return.cs",
+              "RelativeDocumentMoniker": "Model\\Return.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Return.cs",
+              "RelativeToolTip": "Model\\Return.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:02:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "Model\\Reservation.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Reservation.cs",
+              "RelativeToolTip": "Model\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:38:11.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "Model\\Author.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\Author.cs",
+              "RelativeToolTip": "Model\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:48:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Controller\\UserController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\UserController.cs",
+              "RelativeToolTip": "Controller\\UserController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA3wE8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReturnController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReturnController.cs",
+              "RelativeDocumentMoniker": "Controller\\ReturnController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReturnController.cs",
+              "RelativeToolTip": "Controller\\ReturnController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:06:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controller\\ReservationController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReservationController.cs",
+              "RelativeToolTip": "Controller\\ReservationController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:58:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\LanguageController.cs",
+              "RelativeDocumentMoniker": "Controller\\LanguageController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\LanguageController.cs",
+              "RelativeToolTip": "Controller\\LanguageController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:14:23.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Kailing_Library_Global.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\Kailing_Library_Global.cs",
+              "RelativeDocumentMoniker": "Controller\\Kailing_Library_Global.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\Kailing_Library_Global.cs",
+              "RelativeToolTip": "Controller\\Kailing_Library_Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:45:39.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "Controller\\CategoryController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Controller\\BorrowController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BorrowController.cs",
+              "RelativeToolTip": "Controller\\BorrowController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:05:50.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthorDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\AuthorDTO.cs",
+              "RelativeToolTip": "Controller\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:40:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthorController.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\AuthorController.cs",
+              "RelativeToolTip": "Controller\\AuthorController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:50:35.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ReturnDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReturnDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\ReturnDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReturnDTO.cs",
+              "RelativeToolTip": "Controller\\ReturnDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:01:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BorrowDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BorrowDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\BorrowDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\BorrowDTO.cs",
+              "RelativeToolTip": "Controller\\BorrowDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:00:58.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormReports.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormReports.cs",
+              "RelativeDocumentMoniker": "View\\FormReports.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormReports.cs",
+              "RelativeToolTip": "View\\FormReports.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:44:56.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormReports.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormReports.cs",
+              "RelativeDocumentMoniker": "View\\FormReports.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormReports.cs [Design]",
+              "RelativeToolTip": "..\\..\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:44:28.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormMaintain.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintain.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintain.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintain.cs",
+              "RelativeToolTip": "View\\FormMaintain.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA1wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:39:55.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormLogin.cs",
+              "RelativeDocumentMoniker": "View\\FormLogin.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormLogin.cs",
+              "RelativeToolTip": "View\\FormLogin.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:47:32.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormLogin.cs",
+              "RelativeDocumentMoniker": "View\\FormLogin.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:52:14.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormDashboardAdmin.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "View\\FormDashboardAdmin.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboardAdmin.cs",
+              "RelativeToolTip": "View\\FormDashboardAdmin.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA1wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:16:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormDashboardAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "View\\FormDashboardAdmin.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormDashboardAdmin.cs [Design]",
+              "RelativeToolTip": "..\\..\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormDashboardAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:14:32.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "View\\FormDashboard.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboard.cs",
+              "RelativeToolTip": "View\\FormDashboard.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA1wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:46:58.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "View\\FormDashboard.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\Assignment3 5 aug 15-19 user author - kopia\\Assignment2\\View\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:44:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormBookSearch.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookSearch.cs",
+              "RelativeDocumentMoniker": "View\\FormBookSearch.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookSearch.cs",
+              "RelativeToolTip": "View\\FormBookSearch.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAA1wKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:33:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormBookBrowsing.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBrowsing.cs",
+              "RelativeDocumentMoniker": "View\\FormBookBrowsing.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookBrowsing.cs",
+              "RelativeToolTip": "View\\FormBookBrowsing.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:54:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\UserDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\UserDTO.cs",
+              "RelativeToolTip": "Controller\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:46:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DataSetUser.xsd",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetUser.xsd",
+              "RelativeDocumentMoniker": "Model\\DataSetUser.xsd",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetUser.xsd",
+              "RelativeToolTip": "Model\\DataSetUser.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-28T01:04:32.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\ReservationDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\ReservationDTO.cs",
+              "RelativeToolTip": "Controller\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:57:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LanguageDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\LanguageDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\LanguageDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\LanguageDTO.cs",
+              "RelativeToolTip": "Controller\\LanguageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:45:59.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Controller\\CategoryDTO.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\CategoryDTO.cs",
+              "RelativeToolTip": "Controller\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:45:36.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\app.config",
+              "RelativeDocumentMoniker": "Controller\\app.config",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Controller\\app.config",
+              "RelativeToolTip": "Controller\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-04T11:15:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\App.config",
+              "RelativeDocumentMoniker": "View\\App.config",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\App.config",
+              "RelativeToolTip": "View\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-19T16:40:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FormBookReturn.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.Designer.cs",
+              "RelativeDocumentMoniker": "View\\FormBookReturn.Designer.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormBookReturn.Designer.cs",
+              "RelativeToolTip": "View\\FormBookReturn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:39:43.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\Program.cs",
+              "RelativeDocumentMoniker": "View\\Program.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\Program.cs",
+              "RelativeToolTip": "View\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:01:02.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DataSetLanguage.xsd",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.xsd",
+              "RelativeDocumentMoniker": "Model\\DataSetLanguage.xsd",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.xsd",
+              "RelativeToolTip": "Model\\DataSetLanguage.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-28T11:23:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FormMaintainLanguage.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.Designer.cs",
+              "RelativeDocumentMoniker": "View\\FormMaintainLanguage.Designer.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\View\\FormMaintainLanguage.Designer.cs",
+              "RelativeToolTip": "View\\FormMaintainLanguage.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawF0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:55:55.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DataSetCategory.xsd",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetCategory.xsd",
+              "RelativeDocumentMoniker": "Model\\DataSetCategory.xsd",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetCategory.xsd",
+              "RelativeToolTip": "Model\\DataSetCategory.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-28T11:46:26.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DataSetAuthor.xsd",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetAuthor.xsd",
+              "RelativeDocumentMoniker": "Model\\DataSetAuthor.xsd",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetAuthor.xsd",
+              "RelativeToolTip": "Model\\DataSetAuthor.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-28T05:56:37.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DataSetBook.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetBook.Designer.cs",
+              "RelativeDocumentMoniker": "Model\\DataSetBook.Designer.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetBook.Designer.cs",
+              "RelativeToolTip": "Model\\DataSetBook.Designer.cs",
+              "ViewState": "AgIAAJAJAAAAAAAAAAAhwKAJAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:03:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DataSetLanguage.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.cs",
+              "RelativeDocumentMoniker": "Model\\DataSetLanguage.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.cs",
+              "RelativeToolTip": "Model\\DataSetLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T02:48:25.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DataSetLanguage.xsc",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.xsc",
+              "RelativeDocumentMoniker": "Model\\DataSetLanguage.xsc",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.xsc",
+              "RelativeToolTip": "Model\\DataSetLanguage.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-07-19T17:57:47.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DataSetLanguage.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.Designer.cs",
+              "RelativeDocumentMoniker": "Model\\DataSetLanguage.Designer.cs",
+              "ToolTip": "C:\\Projects\\Assignment3 5 aug 18-41 - kopia\\Assignment2\\Model\\DataSetLanguage.Designer.cs",
+              "RelativeToolTip": "Model\\DataSetLanguage.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAIA9wMUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:57:50.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
